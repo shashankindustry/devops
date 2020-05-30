@@ -11,6 +11,8 @@ namespace ClassLibrary1
         public string test()
         {
             return "test";
+			
+			
         }
     }
 }
